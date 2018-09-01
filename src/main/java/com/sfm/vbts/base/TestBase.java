@@ -26,7 +26,7 @@ public class TestBase {
 		try {
 			prop = new Properties();
 			FileInputStream fi = new FileInputStream(
-					System.getProperty("user.dir") + "\\src\\main\\java\\com\\vbts\\sfm\\config\\config.properties");
+					System.getProperty("user.dir") + "\\src\\main\\java\\com\\sfm\\vbts\\config\\config.properties");
 			prop.load(fi);
 
 		} catch (FileNotFoundException e) {
@@ -41,11 +41,11 @@ public class TestBase {
 
 		if (br.equals("Chrome")) {
 			System.setProperty("webdriver.chrome.driver",
-					"D:\\Projects\\POM_Automation\\SFM\\src\\main\\java\\com\\vbts\\sfm\\browsers\\chromedriver.exe");
+					"D:\\Projects\\POM_Automation\\SFM\\src\\main\\java\\com\\sfm\\vbts\\browsers\\chromedriver.exe");
 			driver = new ChromeDriver();
 		} else if (br.equals("Firefox")) {
 			System.setProperty("webdriver.gecko.driver",
-					"D:\\Projects\\POM_Automation\\SFM\\src\\main\\java\\com\\vbts\\sfm\\browsers\\geckodriver.exe");
+					"D:\\Projects\\POM_Automation\\SFM\\src\\main\\java\\com\\sfm\\vbts\\browsers\\geckodriver.exe");
 			driver = new FirefoxDriver();
 		} else {
 			System.out.println("No Browser Driver Available for Browser Instance");

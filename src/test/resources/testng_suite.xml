@@ -2,23 +2,20 @@
 <suite name="SFM Suite" verbose="1">
 
 	<listeners>
-		<listener class-name="com.vbts.sfm.listeners.ExtentReporterNG" />
-		<listener class-name="com.vbts.sfm.listeners.CustomListener" />
+		<listener class-name="com.sfm.vbts.listeners.ExtentReporterNG" />
+		<listener class-name="com.sfm.vbts.listeners.CustomListener" />
 	</listeners>
 
 	<test name="LoginPageTest">
 		<classes>
-			<class name="com.vbts.sfm.tests.LoginPageTest">
-				<!-- <methods> -->
-				<!-- <exclude name="Login"></exclude> -->
-				<!-- </methods> -->
+			<class name="com.sfm.vbts.tests.LoginPageTest">
 			</class>
 		</classes>
 	</test>
 
 	<test name="HomePageTest">
 		<classes>
-			<class name="com.vbts.sfm.tests.HomePageTest" />
+			<class name="com.sfm.vbts.tests.HomePageTest" />
 		</classes>
 	</test>
 </suite>

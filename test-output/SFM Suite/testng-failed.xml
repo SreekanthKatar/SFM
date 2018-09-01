@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SFM Suite]">
+  <listeners>
+    <listener class-name="com.sfm.vbts.listeners.ExtentReporterNG"/>
+    <listener class-name="com.sfm.vbts.listeners.CustomListener"/>
+  </listeners>
+  <test thread-count="5" name="LoginPageTest(failed)">
+    <classes>
+      <class name="com.sfm.vbts.tests.LoginPageTest">
+        <methods>
+          <include name="ValidateLoginPageCenterpointLogo"/>
+          <include name="ValidateLoginPageURL"/>
+          <include name="tearDown"/>
+          <include name="Login"/>
+          <include name="ValidateLoginPageTitle"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- com.sfm.vbts.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- LoginPageTest(failed) -->
+  <test thread-count="5" name="HomePageTest(failed)">
+    <classes>
+      <class name="com.sfm.vbts.tests.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="SetUp"/>
+          <include name="ValidateHomePageTitle"/>
+          <include name="ValidateHomePageHCMLogo"/>
+          <include name="ValidateHomePageURL"/>
+        </methods>
+      </class> <!-- com.sfm.vbts.tests.HomePageTest -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+</suite> <!-- Failed suite [SFM Suite] -->
