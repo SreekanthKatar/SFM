@@ -4,4 +4,5 @@ com\sfm\vbts\pages\LoginPage.class
 com\sfm\vbts\utils\TestUtil.class
 com\sfm\vbts\listeners\CustomListener.class
 com\sfm\vbts\listeners\ExtentReporterNG.class
+com\sfm\vbts\utils\Xls_Reader.class
 com\sfm\vbts\listeners\WebEventListner.class
