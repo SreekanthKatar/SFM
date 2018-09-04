@@ -2,536 +2,132 @@
 <testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
     <line>
-      <![CDATA[Execution Begining Suite: < SFM Suite >]]>
-    </line>
-    <line>
-      <![CDATA[Execution Begining Test: < LoginPageTest >]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 04-09-2018-03:25:46 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
       <![CDATA[Login Page Title is: SFM]]>
-    </line>
-    <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< ValidateLoginPageTitle >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:25:46 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 04-09-2018-03:25:54 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
     </line>
     <line>
       <![CDATA[LoginPageURL is http://103.231.43.144/]]>
     </line>
     <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< ValidateLoginPageURL >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:25:54 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| ValidateLoginPageCenterpointLogo ||:::: 04-09-2018-03:26:02 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
       <![CDATA[Centerpoint Logo is Displayed in Login Page]]>
-    </line>
-    <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< ValidateLoginPageCenterpointLogo >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:02 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| Login ||:::: 04-09-2018-03:26:10 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< Login >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:16 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[Completed Executing Test:< LoginPageTest >]]>
-    </line>
-    <line>
-      <![CDATA[Execution Begining Test: < HomePageTest >]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 04-09-2018-03:26:29 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
     </line>
     <line>
       <![CDATA[Home Page Title is: ::SalesForceManagement::]]>
     </line>
     <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.HomePageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< ValidateHomePageTitle >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:29 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 04-09-2018-03:26:42 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
       <![CDATA[HomePageURL is http://103.231.43.144/home]]>
-    </line>
-    <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.HomePageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< ValidateHomePageURL >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:42 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[
-]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
-    <line>
-      <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 04-09-2018-03:26:54 ]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
     </line>
     <line>
       <![CDATA[SFM Logo is Displayed in Home Page]]>
     </line>
-    <line>
-      <![CDATA[Test Method Resides in com.sfm.vbts.tests.HomePageTest]]>
-    </line>
-    <line>
-      <![CDATA[-------------------------------------------------------------------------------]]>
-    </line>
-    <line>
-      <![CDATA[DONE==>>----<< ValidateHomePageHCMLogo >>]]>
-    </line>
-    <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:54 ]]>
-    </line>
-    <line>
-      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-    </line>
   </reporter-output>
-  <suite name="SFM Suite" duration-ms="79701" started-at="2018-09-04T09:55:35Z" finished-at="2018-09-04T09:56:55Z">
+  <suite name="SFM Suite" duration-ms="75064" started-at="2018-09-04T10:08:55Z" finished-at="2018-09-04T10:10:10Z">
     <groups>
     </groups>
-    <test name="LoginPageTest" duration-ms="41443" started-at="2018-09-04T09:55:35Z" finished-at="2018-09-04T09:56:17Z">
+    <test name="LoginPageTest" duration-ms="36632" started-at="2018-09-04T10:08:55Z" finished-at="2018-09-04T10:09:31Z">
       <class name="com.sfm.vbts.tests.LoginPageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="SetUp" is-config="true" duration-ms="11223" started-at="2018-09-04T09:55:35Z" finished-at="2018-09-04T09:55:46Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="SetUp" is-config="true" duration-ms="8437" started-at="2018-09-04T10:08:55Z" finished-at="2018-09-04T10:09:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateLoginPageTitle()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="ValidateLoginPageTitle" duration-ms="11" started-at="2018-09-04T09:55:46Z" finished-at="2018-09-04T09:55:46Z">
+        <test-method status="PASS" signature="ValidateLoginPageTitle()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="ValidateLoginPageTitle" duration-ms="24" started-at="2018-09-04T10:09:03Z" finished-at="2018-09-04T10:09:03Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| ValidateLoginPageTitle ||:::: 04-09-2018-03:25:46 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
             <line>
               <![CDATA[Login Page Title is: SFM]]>
             </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< ValidateLoginPageTitle >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:25:46 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- ValidateLoginPageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="567" started-at="2018-09-04T09:55:46Z" finished-at="2018-09-04T09:55:47Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="610" started-at="2018-09-04T10:09:03Z" finished-at="2018-09-04T10:09:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="SetUp" is-config="true" duration-ms="7440" started-at="2018-09-04T09:55:47Z" finished-at="2018-09-04T09:55:54Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="SetUp" is-config="true" duration-ms="7078" started-at="2018-09-04T10:09:04Z" finished-at="2018-09-04T10:09:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateLoginPageURL()[pri:1, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="ValidateLoginPageURL" duration-ms="19" started-at="2018-09-04T09:55:54Z" finished-at="2018-09-04T09:55:54Z">
+        <test-method status="PASS" signature="ValidateLoginPageURL()[pri:1, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="ValidateLoginPageURL" duration-ms="19" started-at="2018-09-04T10:09:11Z" finished-at="2018-09-04T10:09:11Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| ValidateLoginPageURL ||:::: 04-09-2018-03:25:54 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
             <line>
               <![CDATA[LoginPageURL is http://103.231.43.144/]]>
             </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< ValidateLoginPageURL >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:25:54 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- ValidateLoginPageURL -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="594" started-at="2018-09-04T09:55:54Z" finished-at="2018-09-04T09:55:55Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="596" started-at="2018-09-04T10:09:11Z" finished-at="2018-09-04T10:09:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="SetUp" is-config="true" duration-ms="7269" started-at="2018-09-04T09:55:55Z" finished-at="2018-09-04T09:56:02Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="SetUp" is-config="true" duration-ms="6566" started-at="2018-09-04T10:09:11Z" finished-at="2018-09-04T10:09:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateLoginPageCenterpointLogo()[pri:2, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="ValidateLoginPageCenterpointLogo" duration-ms="73" started-at="2018-09-04T09:56:02Z" finished-at="2018-09-04T09:56:02Z">
+        <test-method status="PASS" signature="ValidateLoginPageCenterpointLogo()[pri:2, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="ValidateLoginPageCenterpointLogo" duration-ms="85" started-at="2018-09-04T10:09:18Z" finished-at="2018-09-04T10:09:18Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| ValidateLoginPageCenterpointLogo ||:::: 04-09-2018-03:26:02 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
             <line>
               <![CDATA[Centerpoint Logo is Displayed in Login Page]]>
             </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< ValidateLoginPageCenterpointLogo >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:02 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- ValidateLoginPageCenterpointLogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="567" started-at="2018-09-04T09:56:02Z" finished-at="2018-09-04T09:56:03Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="562" started-at="2018-09-04T10:09:18Z" finished-at="2018-09-04T10:09:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="SetUp" is-config="true" duration-ms="7468" started-at="2018-09-04T09:56:03Z" finished-at="2018-09-04T09:56:10Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="SetUp" is-config="true" duration-ms="6540" started-at="2018-09-04T10:09:19Z" finished-at="2018-09-04T10:09:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="Login()[pri:3, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="Login" duration-ms="5595" started-at="2018-09-04T09:56:10Z" finished-at="2018-09-04T09:56:16Z">
+        <test-method status="PASS" signature="Login()[pri:3, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="Login" duration-ms="5493" started-at="2018-09-04T10:09:25Z" finished-at="2018-09-04T10:09:31Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| Login ||:::: 04-09-2018-03:26:10 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.LoginPageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< Login >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:16 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@4b1c1ea0]" name="tearDown" is-config="true" duration-ms="593" started-at="2018-09-04T09:56:16Z" finished-at="2018-09-04T09:56:17Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.LoginPageTest@6acdbdf5]" name="tearDown" is-config="true" duration-ms="600" started-at="2018-09-04T10:09:31Z" finished-at="2018-09-04T10:09:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.sfm.vbts.tests.LoginPageTest -->
     </test> <!-- LoginPageTest -->
-    <test name="HomePageTest" duration-ms="38210" started-at="2018-09-04T09:56:17Z" finished-at="2018-09-04T09:56:55Z">
+    <test name="HomePageTest" duration-ms="38393" started-at="2018-09-04T10:09:31Z" finished-at="2018-09-04T10:10:10Z">
       <class name="com.sfm.vbts.tests.HomePageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="SetUp" is-config="true" duration-ms="12310" started-at="2018-09-04T09:56:17Z" finished-at="2018-09-04T09:56:29Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="SetUp" is-config="true" duration-ms="12499" started-at="2018-09-04T10:09:31Z" finished-at="2018-09-04T10:09:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateHomePageTitle()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="ValidateHomePageTitle" duration-ms="18" started-at="2018-09-04T09:56:29Z" finished-at="2018-09-04T09:56:29Z">
+        <test-method status="PASS" signature="ValidateHomePageTitle()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="ValidateHomePageTitle" duration-ms="20" started-at="2018-09-04T10:09:44Z" finished-at="2018-09-04T10:09:44Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| ValidateHomePageTitle ||:::: 04-09-2018-03:26:29 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
             <line>
               <![CDATA[Home Page Title is: ::SalesForceManagement::]]>
             </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.HomePageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< ValidateHomePageTitle >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:29 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- ValidateHomePageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="tearDown" is-config="true" duration-ms="602" started-at="2018-09-04T09:56:29Z" finished-at="2018-09-04T09:56:30Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="tearDown" is-config="true" duration-ms="582" started-at="2018-09-04T10:09:44Z" finished-at="2018-09-04T10:09:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="SetUp" is-config="true" duration-ms="12161" started-at="2018-09-04T09:56:30Z" finished-at="2018-09-04T09:56:42Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="SetUp" is-config="true" duration-ms="12163" started-at="2018-09-04T10:09:44Z" finished-at="2018-09-04T10:09:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateHomePageURL()[pri:1, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="ValidateHomePageURL" duration-ms="19" started-at="2018-09-04T09:56:42Z" finished-at="2018-09-04T09:56:42Z">
+        <test-method status="PASS" signature="ValidateHomePageURL()[pri:1, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="ValidateHomePageURL" duration-ms="13" started-at="2018-09-04T10:09:57Z" finished-at="2018-09-04T10:09:57Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| ValidateHomePageURL ||:::: 04-09-2018-03:26:42 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
             <line>
               <![CDATA[HomePageURL is http://103.231.43.144/home]]>
             </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.HomePageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< ValidateHomePageURL >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:42 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- ValidateHomePageURL -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="tearDown" is-config="true" duration-ms="599" started-at="2018-09-04T09:56:42Z" finished-at="2018-09-04T09:56:42Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="tearDown" is-config="true" duration-ms="606" started-at="2018-09-04T10:09:57Z" finished-at="2018-09-04T10:09:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="SetUp" is-config="true" duration-ms="11854" started-at="2018-09-04T09:56:42Z" finished-at="2018-09-04T09:56:54Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="SetUp" is-config="true" duration-ms="11867" started-at="2018-09-04T10:09:57Z" finished-at="2018-09-04T10:10:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="ValidateHomePageHCMLogo()[pri:2, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="ValidateHomePageHCMLogo" duration-ms="59" started-at="2018-09-04T09:56:54Z" finished-at="2018-09-04T09:56:54Z">
+        <test-method status="PASS" signature="ValidateHomePageHCMLogo()[pri:2, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="ValidateHomePageHCMLogo" duration-ms="59" started-at="2018-09-04T10:10:09Z" finished-at="2018-09-04T10:10:09Z">
           <reporter-output>
-            <line>
-              <![CDATA[
-]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
-            <line>
-              <![CDATA[TEST----------->>::::|| ValidateHomePageHCMLogo ||:::: 04-09-2018-03:26:54 ]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
             <line>
               <![CDATA[SFM Logo is Displayed in Home Page]]>
             </line>
-            <line>
-              <![CDATA[Test Method Resides in com.sfm.vbts.tests.HomePageTest]]>
-            </line>
-            <line>
-              <![CDATA[-------------------------------------------------------------------------------]]>
-            </line>
-            <line>
-              <![CDATA[DONE==>>----<< ValidateHomePageHCMLogo >>]]>
-            </line>
-            <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 04-09-2018-03:26:54 ]]>
-            </line>
-            <line>
-              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
-            </line>
           </reporter-output>
         </test-method> <!-- ValidateHomePageHCMLogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@17d677df]" name="tearDown" is-config="true" duration-ms="581" started-at="2018-09-04T09:56:54Z" finished-at="2018-09-04T09:56:55Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.vbts.tests.HomePageTest@76b0bfab]" name="tearDown" is-config="true" duration-ms="581" started-at="2018-09-04T10:10:09Z" finished-at="2018-09-04T10:10:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
