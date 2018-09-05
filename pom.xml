@@ -106,6 +106,7 @@
 			<artifactId>extentreports</artifactId>
 			<version>2.41.2</version>
 		</dependency>
+		
 	</dependencies>
 	<build>
 		<plugins>
